@@ -1,4 +1,2 @@
-codeigniter
-===========
+# CodeIgniter Template
 
-CodeIgniter Project Template
